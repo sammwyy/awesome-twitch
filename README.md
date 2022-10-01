@@ -4,14 +4,22 @@ A list of awesome twitch streaming tools
 ## Index
 
 You can navigate directly to the categories.
+- [Analytics](#analytics)
 - [Chat Bots](#chat-bots)
 - [Chat Clients](#chat-clients)
 - [Emote Tools](#emote-tools)
 - [Emotes](#emotes)
+- [OBS Plugins](#obs-plugins)
 - [Misc Tools](#misc-tools)
 - [Widgets](#widgets)
 
 ## Content
+
+### Analytics
+
+Measure the data and analyze the traffic of your streams
+
+- [TwitchTracker](https://twitchtracker.com/) Track Twitch channels, streams and subscribers along with global statistics.
 
 ### Chat Bots
 
@@ -54,10 +62,19 @@ Various utilities for your stream that do not fall into a specific category
 
 - [chat.vote](https://chat.vote/) Create polls and raffles for the chat, let your viewers vote or make suggestions.
 
+## OBS Plugins
+
+Software to start streaming
+
+- [SELive](https://streamelements.com/selive) StreamElements integration for OBS.
+- [StreamFX](https://obsproject.com/forum/resources/streamfx-for-obs%C2%AE-studio.578/) Plugin that adds new sources, filters, effects and transitions to the OBS.
+- [Tuna](https://obsproject.com/forum/resources/tuna.843/) Show information of the current song playing in your stream
+
 ### Widgets
 
 Browser widgets for OBS to add more functionality to your stream.
 
 - [Show Emote](show-emote.sammwy.com) Allow your viewers to display emotes from chat using !showemote
+- [SoundAlerts](https://soundalerts.com/) Allow your viewers to play sounds in your stream with bits.
 - [StreamElements](https://streamelements.com/) Varied widget service (Chatbox, donation alert, goals)
 - [Streamlabs](https://streamlabs.com/es-es/cloudbot) Varied widget service (Chatbox, donation alert, goals)
