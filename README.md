@@ -68,12 +68,13 @@ Software to start streaming
 
 - [SELive](https://streamelements.com/selive) StreamElements integration for OBS.
 - [StreamFX](https://obsproject.com/forum/resources/streamfx-for-obs%C2%AE-studio.578/) Plugin that adds new sources, filters, effects and transitions to the OBS.
-- [Tuna](https://obsproject.com/forum/resources/tuna.843/) Show information of the current song playing in your stream
+- [Tuna](https://obsproject.com/forum/resources/tuna.843/) Show information of the current song playing in your stream.
 
 ### Widgets
 
 Browser widgets for OBS to add more functionality to your stream.
 
+- [Amuse](https://6klabs.com/amuse) Show information of the current song playing in your stream.
 - [ChatIS](https://chatis.is2511.com/) jChat fork with 7TV integration.
 - [Show Emote](https://show-emote.sammwy.com) Allow your viewers to display emotes from chat using !showemote
 - [SoundAlerts](https://soundalerts.com/) Allow your viewers to play sounds in your stream with bits.
