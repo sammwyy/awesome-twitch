@@ -76,7 +76,8 @@ Browser widgets for OBS to add more functionality to your stream.
 
 - [Amuse](https://6klabs.com/amuse) Show information of the current song playing in your stream.
 - [ChatIS](https://chatis.is2511.com/) jChat fork with 7TV integration.
-- [Show Emote](https://show-emote.sammwy.com) Allow your viewers to display emotes from chat using !showemote
+- [Show Emote](https://show-emote.sammwy.com) Allow your viewers to display emotes from chat using !showemote.
+- [showmy.chat](https://showmy.chat/) Instant, themed Twitch chat overlays.
 - [SoundAlerts](https://soundalerts.com/) Allow your viewers to play sounds in your stream with bits.
 - [StreamElements](https://streamelements.com/) Varied widget service (Chatbox, donation alert, goals)
 - [Streamlabs](https://streamlabs.com/es-es/cloudbot) Varied widget service (Chatbox, donation alert, goals)
