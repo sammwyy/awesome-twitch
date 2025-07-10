@@ -61,6 +61,7 @@ Emote extensions and third-party services
 Various utilities for your stream that do not fall into a specific category
 
 - [chat.vote](https://chat.vote/) Create polls and raffles for the chat, let your viewers vote or make suggestions.
+- [StreamWorlds](https://streamworlds.io/) A free Twitch extension that lets you create immersive 3D virtual spaces for your community. Boost engagement and fun.
 
 ## OBS Plugins
 
