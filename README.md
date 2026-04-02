@@ -81,4 +81,5 @@ Browser widgets for OBS to add more functionality to your stream.
 - [showmy.chat](https://showmy.chat/) Instant, themed Twitch chat overlays.
 - [SoundAlerts](https://soundalerts.com/) Allow your viewers to play sounds in your stream with bits.
 - [StreamElements](https://streamelements.com/) Varied widget service (Chatbox, donation alert, goals)
+- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping that automatically finds highlights in long-form videos and creates short clips for TikTok, YouTube Shorts, and Instagram Reels.
 - [Streamlabs](https://streamlabs.com/es-es/cloudbot) Varied widget service (Chatbox, donation alert, goals)
