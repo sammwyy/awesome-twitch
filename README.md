@@ -60,6 +60,7 @@ Emote extensions and third-party services
 
 Various utilities for your stream that do not fall into a specific category
 
+- [BetterStreams](https://betterstreams.tv) Stream automation that connects channel point redeems, subs, raids, and 16 other triggers to OBS actions, TTS, and giveaways. Includes reward management with auto-toggling by game category and redemption analytics.
 - [chat.vote](https://chat.vote/) Create polls and raffles for the chat, let your viewers vote or make suggestions.
 - [StreamWorlds](https://streamworlds.io/) A free Twitch extension that lets you create immersive 3D virtual spaces for your community. Boost engagement and fun.
 
