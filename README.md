@@ -63,8 +63,6 @@ Various utilities for your stream that do not fall into a specific category
 - [chat.vote](https://chat.vote/) Create polls and raffles for the chat, let your viewers vote or make suggestions.
 - [StreamWorlds](https://streamworlds.io/) A free Twitch extension that lets you create immersive 3D virtual spaces for your community. Boost engagement and fun.
 
-- [ClipSpeedAI](https://clipspeed.ai) AI-powered video clipping tool that automatically finds the best moments in long-form videos and creates short clips for TikTok, YouTube Shorts, and Instagram Reels.
-
 ## OBS Plugins
 
 Software to start streaming
@@ -83,4 +81,5 @@ Browser widgets for OBS to add more functionality to your stream.
 - [showmy.chat](https://showmy.chat/) Instant, themed Twitch chat overlays.
 - [SoundAlerts](https://soundalerts.com/) Allow your viewers to play sounds in your stream with bits.
 - [StreamElements](https://streamelements.com/) Varied widget service (Chatbox, donation alert, goals)
+- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping that automatically finds highlights in long-form videos and creates short clips for TikTok, YouTube Shorts, and Instagram Reels.
 - [Streamlabs](https://streamlabs.com/es-es/cloudbot) Varied widget service (Chatbox, donation alert, goals)
