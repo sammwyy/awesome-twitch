@@ -54,7 +54,8 @@ Emote extensions and third-party services
 
 - [7TV](https://7tv.app/) 3rd party emotes extension that also allows you to add animated emotes.  
 - [BetterTTV](https://betterttv.com/) 3rd party emotes extension that also allows you to add animated emotes.  
-- [FrankerFaceZ](https://www.frankerfacez.com/) Third party emotes extension.  
+- [FrankerFaceZ](https://www.frankerfacez.com/) Third party emotes extension.
+- [Emotes.net](https://emotes.net/) 3rd party emote marketplace
 
 ### Misc Tools
 
