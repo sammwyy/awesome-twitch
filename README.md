@@ -88,6 +88,7 @@ Various utilities for your stream that do not fall into a specific category
 - [NoSub](https://nosubapp.com) Watch Twitch and Kick VODs including sub-only replays, with the original chat replayed in sync. Free, no account, nothing to install.
 - [StreamWorlds](https://streamworlds.io/) A free Twitch extension that lets you create immersive 3D virtual spaces for your community. Boost engagement and fun.
 - [Wheel of Item](https://wheelofitem.com) Free spin wheel & gachapon prize machine for streamers — viewers trigger it from chat with !spin, or it auto-spins on Streamlabs/StreamElements/Ko-fi donations.
+- [Xenon](https://xenon-app.com) Dashboard for a spare screen, tablet or phone that controls OBS, Streamer.bot, Twitch and per-app audio, with a Stream Deck style touch grid and RGB lighting. Runs entirely on your machine, no account.
 
 ### OBS Plugins
 
