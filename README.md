@@ -82,6 +82,7 @@ Emote extensions and third-party services
 Various utilities for your stream that do not fall into a specific category
 
 - [BetterStreams](https://betterstreams.tv) Stream automation that connects channel point redeems, subs, raids, and 16 other triggers to OBS actions, TTS, and giveaways. Includes reward management with auto-toggling by game category and redemption analytics.
+- [Boltis](https://boltis.app) Free one-hotkey Twitch clip tool. Press a key while live to save the last 60 seconds, then edit to vertical with captions, cuts and overlays for TikTok and Shorts. You pick the moment rather than AI. Windows, no watermark.
 - [chat.vote](https://chat.vote/) Create polls and raffles for the chat, let your viewers vote or make suggestions.
 - [ClipMe](https://clipme.com) AI clip maker for live streams — turns Twitch, Kick and YouTube streams and VODs into captioned vertical shorts, ranking moments by chat activity.
 - [ClipSpeedAI](https://clipspeed.ai) AI clip extractor — finds highlights in long-form VODs and renders short verticals for TikTok / Shorts / Reels.
