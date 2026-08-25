@@ -56,6 +56,7 @@ Alternative chat clients that bring more utilities or provide additional support
 - [Chatterino](https://chatterino.com/) A cross-platform chat client.
 - [Chatterino7](https://github.com/SevenTV/chatterino7) A fork of Chatterino that support 7TV.
 - [Chatty](https://chatty.github.io/) Java-based chat client for Twitch.
+- [HeatSync](https://heatsync.org) Twitch, Kick and YouTube chat in one panel, with your own emotes in any channel.
 - [Frosty](https://github.com/tommyxchow/frosty) A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support.
 
 ### Emote Tools
