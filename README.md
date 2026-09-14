@@ -94,6 +94,7 @@ Various utilities for your stream that do not fall into a specific category
 - [StreamWorlds](https://streamworlds.io/) A free Twitch extension that lets you create immersive 3D virtual spaces for your community. Boost engagement and fun.
 - [Voding](https://vod.ing) Browser-based Twitch VoD editor with chat-activity highlight finding, chat overlay rendering and FCPXML export.
 - [Wheel of Item](https://wheelofitem.com) Free spin wheel & gachapon prize machine for streamers — viewers trigger it from chat with !spin, or it auto-spins on Streamlabs/StreamElements/Ko-fi donations.
+- [Xenon](https://xenon-app.com) Dashboard for a spare screen, tablet or phone that controls OBS, Streamer.bot, Twitch and per-app audio, with a Stream Deck style touch grid and RGB lighting. Runs entirely on your machine, no account.
 
 ### OBS Plugins
 
