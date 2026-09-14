@@ -25,6 +25,7 @@ Browser widgets for OBS to add more functionality to your stream.
 - [ChatIS](https://chatis.is2511.com/) jChat fork with 7TV integration.
 - [CodingFreaks Chat Overlay](https://twitch-overlays.coding-freaks.com/en/overlays/chat-overlay) Free display-only chat overlay with native 7TV, BTTV and FFZ emotes and six themes. Runs from a single HTML file, so it needs no bot account and no OAuth token.
 - [PixelyChat](https://pixelychat.com) - Merges Twitch, YouTube, TikTok, and Kick chat, follows, subs, gifts, and likes into one browser-source overlay or dock for OBS/Streamlabs, plus neural TTS, live translation, and mod tools.
+- [Poltergeist](https://poltergeist.cc) Real-time overlay control for Twitch, Kick & YouTube streamers and their mods.
 - [Show Emote](https://show-emote.sammwy.com) Allow your viewers to display emotes from chat using !showemote.
 - [showmy.chat](https://showmy.chat/) Instant, themed Twitch chat overlays.
 - [SoundAlerts](https://soundalerts.com/) Allow your viewers to play sounds in your stream with bits.
@@ -34,6 +35,7 @@ Browser widgets for OBS to add more functionality to your stream.
 - [TipStreams](https://tipstreams.com/widget/) Free embeddable tip-QR overlay (OBS browser source): one QR for crypto, PayPal, Cash App, Venmo, and Ko-fi. No account, no fees.
 - [Vizz.fm](https://vizz.fm) Browser-based music visualizer with customizable scenes and presets, usable as an OBS browser source.
 - [Kloot](https://kloot.gg) Browser-based control deck for streamers: fire giveaways, live polls, lower thirds and hype effects from one OBS browser source, controlled from your phone.
+
 
 ### Analytics
 
