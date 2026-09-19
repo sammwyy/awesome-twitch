@@ -91,6 +91,7 @@ Various utilities for your stream that do not fall into a specific category
 - [Boltis](https://boltis.app) Free one-hotkey Twitch clip tool. Press a key while live to save the last 60 seconds, then edit to vertical with captions, cuts and overlays for TikTok and Shorts. You pick the moment rather than AI. Windows, no watermark.
 - [chat.vote](https://chat.vote/) Create polls and raffles for the chat, let your viewers vote or make suggestions.
 - [ClipMe](https://clipme.com) AI clip maker for live streams — turns Twitch, Kick and YouTube streams and VODs into captioned vertical shorts, ranking moments by chat activity.
+- [Clips Kitty](https://colingpt9.github.io/clips-studio/) Free open-source clipper that runs on your own PC — turns Twitch, YouTube and Kick VODs into captioned vertical shorts, keeping whoever is speaking centred in the 9:16 crop. No uploads, no subscription, no watermark.
 - [ClipSpeedAI](https://clipspeed.ai) AI clip extractor — finds highlights in long-form VODs and renders short verticals for TikTok / Shorts / Reels.
 - [NoSub](https://nosubapp.com) Watch Twitch and Kick VODs including sub-only replays, with the original chat replayed in sync. Free, no account, nothing to install.
 - [PickerSpin](https://pickerspin.co) Free wheel spinner, dice roller and bingo caller for drawing giveaway winners — provably fair (Web Crypto API, publicly verifiable), no donation gate, no account.
