@@ -22,6 +22,7 @@ Browser widgets for OBS to add more functionality to your stream.
 
 - [All-Chat](https://allch.at) Free, open-source chat overlay that merges Twitch with YouTube, Kick, TikTok, and Discord into a single OBS browser source. Native 7TV/BTTV/FFZ emote support.
 - [Amuse](https://6klabs.com/amuse) Show information of the current song playing in your stream.
+- [BubbleFacts](https://bubblefacts.frolic.org) Free, open-source desktop app for musicians: pops up fact bubbles in OBS about the song you're playing from StreamerSongList or StreamElements requests. Built with AI assistance.
 - [ChatIS](https://chatis.is2511.com/) jChat fork with 7TV integration.
 - [CodingFreaks Chat Overlay](https://twitch-overlays.coding-freaks.com/en/overlays/chat-overlay) Free display-only chat overlay with native 7TV, BTTV and FFZ emotes and six themes. Runs from a single HTML file, so it needs no bot account and no OAuth token.
 - [PixelyChat](https://pixelychat.com) - Merges Twitch, YouTube, TikTok, and Kick chat, follows, subs, gifts, and likes into one browser-source overlay or dock for OBS/Streamlabs, plus neural TTS, live translation, and mod tools.
