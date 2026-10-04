@@ -47,6 +47,7 @@ Measure the data and analyze the traffic of your streams
 
 Chat bot that brings utilities to your viewers or moderators.
 
+- [ByteMate](https://bytemate.me/) Free all-in-one Twitch chat bot and web dashboard with commands, alerts, giveaways, OBS overlays and per-moderator permissions.
 - [CoeBot](https://www.coebot.tv/) Chat bot with moderation, commands, quotes, variables and advanced integration.
 - [Fossabot](https://fossabot.com/) The ultimate high performance, feature packed chat bot for Twitch.
 - [Moobot](https://moo.bot/) Get a friendly, engaging, and loyal community on Twitch, all automatically, for free!
