@@ -94,6 +94,7 @@ Various utilities for your stream that do not fall into a specific category
 - [ClipSpeedAI](https://clipspeed.ai) AI clip extractor — finds highlights in long-form VODs and renders short verticals for TikTok / Shorts / Reels.
 - [NoSub](https://nosubapp.com) Watch Twitch and Kick VODs including sub-only replays, with the original chat replayed in sync. Free, no account, nothing to install.
 - [PickerSpin](https://pickerspin.co) Free wheel spinner, dice roller and bingo caller for drawing giveaway winners — provably fair (Web Crypto API, publicly verifiable), no donation gate, no account.
+- [RaidPort](https://raidport.tv/?utm_source=github&utm_medium=referral&utm_campaign=building&utm_content=awesome-twitch) A Twitch channel built as a live gameshow for raids, for small streamers. Raid in at the end of your stream to play; the channel raids the winner. Free, no login, nothing to install. Opens fall 2026.
 - [StreamWorlds](https://streamworlds.io/) A free Twitch extension that lets you create immersive 3D virtual spaces for your community. Boost engagement and fun.
 - [Voding](https://vod.ing) Browser-based Twitch VoD editor with chat-activity highlight finding, chat overlay rendering and FCPXML export.
 - [Wheel of Item](https://wheelofitem.com) Free spin wheel & gachapon prize machine for streamers — viewers trigger it from chat with !spin, or it auto-spins on Streamlabs/StreamElements/Ko-fi donations.
