@@ -92,6 +92,7 @@ Various utilities for your stream that do not fall into a specific category
 - [chat.vote](https://chat.vote/) Create polls and raffles for the chat, let your viewers vote or make suggestions.
 - [ClipMe](https://clipme.com) AI clip maker for live streams — turns Twitch, Kick and YouTube streams and VODs into captioned vertical shorts, ranking moments by chat activity.
 - [ClipSpeedAI](https://clipspeed.ai) AI clip extractor — finds highlights in long-form VODs and renders short verticals for TikTok / Shorts / Reels.
+- [Link](https://github.com/shushu-eco/link) Free, open source stream recorder and clip maker that runs on your own computer. A browser extension records the Twitch or Kick stream in your tab with your highlights marked; a Windows program finds the moments and makes captioned 9:16 clips. Nothing is uploaded, no account.
 - [NoSub](https://nosubapp.com) Watch Twitch and Kick VODs including sub-only replays, with the original chat replayed in sync. Free, no account, nothing to install.
 - [PickerSpin](https://pickerspin.co) Free wheel spinner, dice roller and bingo caller for drawing giveaway winners — provably fair (Web Crypto API, publicly verifiable), no donation gate, no account.
 - [StreamWorlds](https://streamworlds.io/) A free Twitch extension that lets you create immersive 3D virtual spaces for your community. Boost engagement and fun.
