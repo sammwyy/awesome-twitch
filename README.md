@@ -21,6 +21,7 @@ You can navigate directly to the categories.
 Browser widgets for OBS to add more functionality to your stream.
 
 - [All-Chat](https://allch.at) Free, open-source chat overlay that merges Twitch with YouTube, Kick, TikTok, and Discord into a single OBS browser source. Native 7TV/BTTV/FFZ emote support.
+- [Ambiant Pixel Stream Packs](https://ambiantpixel-lab.github.io/obs-stream-background-pixel-art/) Animated pixel art scenes (Starting Soon, BRB, Ending, Just Chatting) with a live HTML browser source where you type your own title. Paid, $8 per theme.
 - [Amuse](https://6klabs.com/amuse) Show information of the current song playing in your stream.
 - [ChatIS](https://chatis.is2511.com/) jChat fork with 7TV integration.
 - [CodingFreaks Chat Overlay](https://twitch-overlays.coding-freaks.com/en/overlays/chat-overlay) Free display-only chat overlay with native 7TV, BTTV and FFZ emotes and six themes. Runs from a single HTML file, so it needs no bot account and no OAuth token.
@@ -37,7 +38,6 @@ Browser widgets for OBS to add more functionality to your stream.
 - [TipStreams](https://tipstreams.com/widget/) Free embeddable tip-QR overlay (OBS browser source): one QR for crypto, PayPal, Cash App, Venmo, and Ko-fi. No account, no fees.
 - [Vizz.fm](https://vizz.fm) Browser-based music visualizer with customizable scenes and presets, usable as an OBS browser source.
 - [Kloot](https://kloot.gg) Browser-based control deck for streamers: fire giveaways, live polls, lower thirds and hype effects from one OBS browser source, controlled from your phone.
-- [Ambiant Pixel Stream Packs](https://ambiantpixel-lab.github.io/obs-stream-background-pixel-art/) Animated pixel art scenes (Starting Soon, BRB, Ending, Just Chatting) with a live HTML browser source where you type your own title. Paid, $8 per theme.
 
 
 ### Analytics
