@@ -94,6 +94,7 @@ Various utilities for your stream that do not fall into a specific category
 
 - [BetterStreams](https://betterstreams.tv) Stream automation that connects channel point redeems, subs, raids, and 16 other triggers to OBS actions, TTS, and giveaways. Includes reward management with auto-toggling by game category and redemption analytics.
 - [Boltis](https://boltis.app) Free one-hotkey Twitch clip tool. Press a key while live to save the last 60 seconds, then edit to vertical with captions, cuts and overlays for TikTok and Shorts. You pick the moment rather than AI. Windows, no watermark.
+- [BubbleFacts](https://bubblefacts.frolic.org) Free, open-source desktop app for music streamers (Mac, Windows, Linux) that shows fact bubbles in OBS about the song you're playing, from StreamerSongList or StreamElements requests. Built with AI assistance.
 - [chat.vote](https://chat.vote/) Create polls and raffles for the chat, let your viewers vote or make suggestions.
 - [ClipMe](https://clipme.com) AI clip maker for live streams — turns Twitch, Kick and YouTube streams and VODs into captioned vertical shorts, ranking moments by chat activity.
 - [Clips Kitty](https://colingpt9.github.io/clips-studio/) Free open-source clipper that runs on your own PC — turns Twitch, YouTube and Kick VODs into captioned vertical shorts, keeping whoever is speaking centred in the 9:16 crop. No uploads, no subscription, no watermark.
