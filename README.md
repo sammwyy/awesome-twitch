@@ -112,6 +112,7 @@ Various utilities for your stream that do not fall into a specific category
 
 Software to start streaming
 
+- [Meta G Link Direct](https://github.com/RandyNorthrup/meta-g-link-direct) Uses Ray-Ban Meta (Gen 2) glasses as a live first-person camera source in OBS on Windows, over a Wi-Fi network the glasses host. Free and open source (beta).
 - [SELive](https://streamelements.com/selive) StreamElements integration for OBS.
 - [StreamFX](https://obsproject.com/forum/resources/streamfx-for-obs%C2%AE-studio.578/) Plugin that adds new sources, filters, effects and transitions to the OBS.
 - [Tuna](https://obsproject.com/forum/resources/tuna.843/) Show information of the current song playing in your stream.
