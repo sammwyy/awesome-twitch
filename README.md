@@ -104,6 +104,7 @@ Various utilities for your stream that do not fall into a specific category
 - [ScaleReach](https://www.scalereach.ai) Turns an uploaded video or YouTube link into vertical 9:16 clips with AI captions, face-tracking crop and a virality score per clip, and schedules them to Instagram, TikTok and YouTube. Includes 100 free minutes with no credit card.
 - [StreamPulse](https://streampulse.fr) Free, open-source browser extension for viewers: one dashboard and desktop alerts for Twitch and Kick lives, auto-claimed channel points and Drops, and favorites pinned in the Twitch sidebar. No login and no OAuth token needed.
 - [StreamWorlds](https://streamworlds.io/) A free Twitch extension that lets you create immersive 3D virtual spaces for your community. Boost engagement and fun.
+- [Twitch → Telegram](https://t.me/twitch2telegram_bot) Open-source Telegram bot for Twitch alerts (went live, category change, stream end, Drops), schedule tools and AI clips from VODs. Ready bot or self-host.
 - [Voding](https://vod.ing) Browser-based Twitch VoD editor with chat-activity highlight finding, chat overlay rendering and FCPXML export.
 - [Wheel of Item](https://wheelofitem.com) Free spin wheel & gachapon prize machine for streamers — viewers trigger it from chat with !spin, or it auto-spins on Streamlabs/StreamElements/Ko-fi donations.
 - [Xenon](https://xenon-app.com) Dashboard for a spare screen, tablet or phone that controls OBS, Streamer.bot, Twitch and per-app audio, with a Stream Deck style touch grid and RGB lighting. Runs entirely on your machine, no account.
