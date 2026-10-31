@@ -91,6 +91,7 @@ Emote extensions and third-party services
 ### Misc Tools
 
 Various utilities for your stream that do not fall into a specific category
+- [NeonStreamLab Screen Makers](https://neonstreamlab.com/tools) Free browser-based tools to create Starting Soon, BRB, Ending and Offline screens as 1920×1080 PNGs. No account required.
 
 - [BetterStreams](https://betterstreams.tv) Stream automation that connects channel point redeems, subs, raids, and 16 other triggers to OBS actions, TTS, and giveaways. Includes reward management with auto-toggling by game category and redemption analytics.
 - [Boltis](https://boltis.app) Free one-hotkey Twitch clip tool. Press a key while live to save the last 60 seconds, then edit to vertical with captions, cuts and overlays for TikTok and Shorts. You pick the moment rather than AI. Windows, no watermark.
