@@ -38,6 +38,7 @@ Browser widgets for OBS to add more functionality to your stream.
 - [TipStreams](https://tipstreams.com/widget/) Free embeddable tip-QR overlay (OBS browser source): one QR for crypto, PayPal, Cash App, Venmo, and Ko-fi. No account, no fees.
 - [Vizz.fm](https://vizz.fm) Browser-based music visualizer with customizable scenes and presets, usable as an OBS browser source.
 - [Kloot](https://kloot.gg) Browser-based control deck for streamers: fire giveaways, live polls, lower thirds and hype effects from one OBS browser source, controlled from your phone.
+- [send21 stream tips](https://github.com/send21io/send21-stream-tips) Self-hosted, open-source tip page and OBS alert overlay built on send21 (crypto pay links and API for people and AI agents). Viewers tip in crypto such as USDC or USDT on Solana or BTC over Lightning, paid straight to the streamer's own wallet, and each alert plays once after the payment is confirmed.
 
 
 ### Analytics
