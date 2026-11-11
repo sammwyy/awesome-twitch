@@ -98,6 +98,7 @@ Various utilities for your stream that do not fall into a specific category
 - [ClipMe](https://clipme.com) AI clip maker for live streams — turns Twitch, Kick and YouTube streams and VODs into captioned vertical shorts, ranking moments by chat activity.
 - [Clips Kitty](https://colingpt9.github.io/clips-studio/) Free open-source clipper that runs on your own PC — turns Twitch, YouTube and Kick VODs into captioned vertical shorts, keeping whoever is speaking centred in the 9:16 crop. No uploads, no subscription, no watermark.
 - [ClipSpeedAI](https://clipspeed.ai) AI clip extractor — finds highlights in long-form VODs and renders short verticals for TikTok / Shorts / Reels.
+- [Gleem](https://gleem.gg) Creator page and Twitch extension in one: viewers send messages, join memberships, unlock posts and request on-stream Treats, and you set what everything costs.
 - [Link](https://github.com/shushu-eco/link) Free, open source stream recorder and clip maker that runs on your own computer. A browser extension records the Twitch or Kick stream in your tab with your highlights marked; a Windows program finds the moments and makes captioned 9:16 clips. Nothing is uploaded, no account.
 - [NoSub](https://nosubapp.com) Watch Twitch and Kick VODs including sub-only replays, with the original chat replayed in sync. Free, no account, nothing to install.
 - [PickerSpin](https://pickerspin.co) Free wheel spinner, dice roller and bingo caller for drawing giveaway winners — provably fair (Web Crypto API, publicly verifiable), no donation gate, no account.
@@ -112,6 +113,7 @@ Various utilities for your stream that do not fall into a specific category
 
 Software to start streaming
 
+- [OBS IRL Control](https://github.com/gleem-gg/obs-irl-control) Open-source plugin for OBS on Linux that switches to your offline scene when an IRL stream drops or lags, and back when it recovers. Runs inside OBS, no obs-websocket needed.
 - [SELive](https://streamelements.com/selive) StreamElements integration for OBS.
 - [StreamFX](https://obsproject.com/forum/resources/streamfx-for-obs%C2%AE-studio.578/) Plugin that adds new sources, filters, effects and transitions to the OBS.
 - [Tuna](https://obsproject.com/forum/resources/tuna.843/) Show information of the current song playing in your stream.
