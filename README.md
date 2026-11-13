@@ -78,6 +78,7 @@ Tools and utilities about emotes.
 - [EmoteResizer](https://emoteresizer.net) Free toolkit for streamers: resize emotes, sub/bit badges and stickers to exact Twitch, Discord, Kick, Slack, 7TV and YouTube sizes (animated GIFs supported), plus Twitch Bits and subscription revenue calculators. Browser-based, no signup.
 - [Emote Resizer](https://emoteresize.com) Turns one image into every Twitch, Discord, 7TV/BTTV/FFZ and Slack emote, badge and sticker size. Supports PNG and animated GIF, batch input and auto-compression; runs fully client-side with no upload or signup.
 - [EmoteStudio](https://emotestud.io/) Removes the background from any photograph and turns it into a clean emote for Twitch, Discord, Kick, Slack, and YouTube.
+- [EmoteSize](https://emotesize.com/twitch-emote-resizer) Free in-browser Twitch emote resizer: one image or GIF in, 28×28, 56×56 and 112×112 out in a ZIP, with animated GIFs fitted under Twitch's 512 KB limit. Nothing is uploaded.
 
 ### Emotes
 
