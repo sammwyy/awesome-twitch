@@ -35,6 +35,7 @@ Browser widgets for OBS to add more functionality to your stream.
 - [StreamElements](https://streamelements.com/) Varied widget service (Chatbox, donation alert, goals)
 - [Streamlabs](https://streamlabs.com/es-es/cloudbot) Varied widget service (Chatbox, donation alert, goals)
 - [StreamTranslate](https://streamtranslate.live) Adds real-time translated subtitles to your stream through an browser sourse.
+- [TalkAStranger Stream Overlays](https://github.com/umairkhan2582/talkastranger-stream-overlays) Open-source suite of HTML5/CSS3 animated browser-source overlays for OBS Studio and Streamlabs across 10 categories (30 scenes: In-Game HUD, Starting Soon, Intermission), synthesized alert chimes, and offline personalizer.
 - [TipStreams](https://tipstreams.com/widget/) Free embeddable tip-QR overlay (OBS browser source): one QR for crypto, PayPal, Cash App, Venmo, and Ko-fi. No account, no fees.
 - [Vizz.fm](https://vizz.fm) Browser-based music visualizer with customizable scenes and presets, usable as an OBS browser source.
 - [Kloot](https://kloot.gg) Browser-based control deck for streamers: fire giveaways, live polls, lower thirds and hype effects from one OBS browser source, controlled from your phone.
@@ -104,6 +105,7 @@ Various utilities for your stream that do not fall into a specific category
 - [ScaleReach](https://www.scalereach.ai) Turns an uploaded video or YouTube link into vertical 9:16 clips with AI captions, face-tracking crop and a virality score per clip, and schedules them to Instagram, TikTok and YouTube. Includes 100 free minutes with no credit card.
 - [StreamPulse](https://streampulse.fr) Free, open-source browser extension for viewers: one dashboard and desktop alerts for Twitch and Kick lives, auto-claimed channel points and Drops, and favorites pinned in the Twitch sidebar. No login and no OAuth token needed.
 - [StreamWorlds](https://streamworlds.io/) A free Twitch extension that lets you create immersive 3D virtual spaces for your community. Boost engagement and fun.
+- [TalkAStranger Streamer Companion](https://github.com/umairkhan2582/talkastranger-streamer-extension) Open-source Chrome/Edge extension providing a docked Side Panel HUD with live viewer counter, chat feed, synthesized audio gift alerts, broadcast studio, and stream overlay manager.
 - [Voding](https://vod.ing) Browser-based Twitch VoD editor with chat-activity highlight finding, chat overlay rendering and FCPXML export.
 - [Wheel of Item](https://wheelofitem.com) Free spin wheel & gachapon prize machine for streamers — viewers trigger it from chat with !spin, or it auto-spins on Streamlabs/StreamElements/Ko-fi donations.
 - [Xenon](https://xenon-app.com) Dashboard for a spare screen, tablet or phone that controls OBS, Streamer.bot, Twitch and per-app audio, with a Stream Deck style touch grid and RGB lighting. Runs entirely on your machine, no account.
@@ -123,5 +125,6 @@ Section dedicated to the development of integrations, plugins, widgets and strea
 > Note: The following section is technical in nature and intended for power users.
 
 - [Streamlink](https://github.com/streamlink/streamlink) Streamlink is a CLI utility which pipes video streams from various services into a video player.
+- [TalkAStranger Live Linker SDK](https://github.com/umairkhan2582/talkastranger-live-linker-sdk) Client-side WebRTC broadcast engine, 1-to-N multi-viewer relay hub, in-browser media capture, and cross-platform chat and stream bridge.
 - [tmi.js](https://github.com/tmijs/tmi.js) Javascript library for the Twitch Messaging Interface.
 - [twurple](https://github.com/twurple/twurple) Interact with Twitch's API, chat and subscribe to events via PubSub and EventSub.
