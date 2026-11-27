@@ -29,6 +29,7 @@ Browser widgets for OBS to add more functionality to your stream.
 - [Fut Overlay](https://futoverlay.com) Browser-source football (soccer) overlay for OBS with live scoreboards, lineups, stats and match events. Free trial available.
 - [GGCombat Esports Overlay](https://ggcombat.com/en/widgets) Free 800x140 browser source for pro LoL, Dota 2, MLBB and AoV matches: both teams, live score or Bo format, and an Elo-based win-chance bar, reloading every 30 seconds. No account.
 - [Kilobat CLI](https://github.com/seifip/kilobat-cli) Free, open-source macOS tool serving a local ping, jitter and packet-loss overlay for an OBS browser source.
+- [OverlayCast](https://overlaycast.com) Browser-source overlays for OBS: chat, alerts, goal bars, timers, polls and chat games, each from one URL that updates when you edit it. Freemium: eight free widgets with a watermark, Pro for the rest.
 - [PixelyChat](https://pixelychat.com) - Merges Twitch, YouTube, TikTok, and Kick chat, follows, subs, gifts, and likes into one browser-source overlay or dock for OBS/Streamlabs, plus neural TTS, live translation, and mod tools.
 - [Poltergeist](https://poltergeist.cc) Real-time overlay control for Twitch, Kick & YouTube streamers and their mods.
 - [Show Emote](https://show-emote.sammwy.com) Allow your viewers to display emotes from chat using !showemote.
