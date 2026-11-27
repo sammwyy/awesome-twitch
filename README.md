@@ -28,6 +28,7 @@ Browser widgets for OBS to add more functionality to your stream.
 - [ControllerOverlay](https://controlleroverlay.com) Shows your PS5, PS4 or Xbox controller on stream, lighting up each button, trigger and stick as you press it. One transparent browser source link. Stock pads are free with an account; skins are a one-time $14.99.
 - [Facecam PNGTuber](https://www.facecam.ai/pngtuber-maker) Free PNGTuber maker in the browser that talks when you talk, with a one-link transparent OBS browser source. No sign-up.
 - [Fut Overlay](https://futoverlay.com) Browser-source football (soccer) overlay for OBS with live scoreboards, lineups, stats and match events. Free trial available.
+- [Kloot](https://kloot.gg) Browser-based control deck for streamers: fire giveaways, live polls, lower thirds and hype effects from one OBS browser source, controlled from your phone.
 - [Layrs](https://layrs.tv) Free hosted overlay editor for Twitch and Kick: chat with 7TV/BTTV/FFZ emotes and 7TV paints, alerts, goals and a subathon timer, edited live together with your mods. One URL in OBS.
 - [OverlayCast](https://overlaycast.com) Browser-source overlays for OBS: chat, alerts, goal bars, timers, polls and chat games, each from one URL that updates when you edit it. Freemium: eight free widgets with a watermark, Pro for the rest.
 - [PixelyChat](https://pixelychat.com) - Merges Twitch, YouTube, TikTok, and Kick chat, follows, subs, gifts, and likes into one browser-source overlay or dock for OBS/Streamlabs, plus neural TTS, live translation, and mod tools.
@@ -41,7 +42,6 @@ Browser widgets for OBS to add more functionality to your stream.
 - [TipStreams](https://tipstreams.com/widget/) Free embeddable tip-QR overlay (OBS browser source): one QR for crypto, PayPal, Cash App, Venmo, and Ko-fi. No account, no fees.
 - [Tramevia Dock](https://github.com/Tramevia/Tramevia-Dock) Free, open-source, self-hosted OBS docks and overlays for Twitch, Kick, YouTube and TikTok: unified chat and event feed, one title/category editor for all channels, chat overlay, alerts and viewer counter.
 - [Vizz.fm](https://vizz.fm) Browser-based music visualizer with customizable scenes and presets, usable as an OBS browser source.
-- [Kloot](https://kloot.gg) Browser-based control deck for streamers: fire giveaways, live polls, lower thirds and hype effects from one OBS browser source, controlled from your phone.
 
 
 ### Analytics
@@ -72,20 +72,20 @@ Alternative chat clients that bring more utilities or provide additional support
 - [Chatty](https://chatty.github.io/) Java-based chat client for Twitch.
 - [Composi Chat](https://chromewebstore.google.com/detail/composi-chat/mbbcmagdpiccgebggnkhpiledgodffbh) Twitch, Kick and TikTok live chat merged in one browser side panel, with 7TV/BTTV/FFZ emotes. Free Chrome and [Firefox](https://addons.mozilla.org/firefox/addon/composi-chat/) extension, no account.
 - [CrossChat](https://github.com/RandyNorthrup/crosschat-obs) Free, open-source desktop app that combines Twitch, YouTube, Kick, X, TikTok, Facebook, Instagram and Rumble chat in one window, with replies to all platforms, moderation and chat/alert/viewer-count browser sources.
-- [HeatSync](https://heatsync.org) Twitch, Kick and YouTube chat in one panel, with your own emotes in any channel.
 - [Frosty](https://github.com/tommyxchow/frosty) A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support.
+- [HeatSync](https://heatsync.org) Twitch, Kick and YouTube chat in one panel, with your own emotes in any channel.
 
 ### Emote Tools
 
 Tools and utilities about emotes.
 
 - [Animated Emote Maker](https://animatedemotemaker.com) Turns a picture, or a character designed in the app, into a matching set of animated Twitch and Discord emotes, sub badges and PNGTuber states. 3 free credits, then paid credit packs.
-- [Emote Tester](https://levi506.net/emote-tester/) App to allow for previewing Twitch and Discord emotes.
-- [Twitch Emotes](https://twitchemotes.com/) It allows you to view the emotes of any channel.
-- [Twitch Emote Resizer](https://tma02.github.io/twitch-emote-resizer/) Automatically resize emotes to required sizes.
-- [EmoteResizer](https://emoteresizer.net) Free toolkit for streamers: resize emotes, sub/bit badges and stickers to exact Twitch, Discord, Kick, Slack, 7TV and YouTube sizes (animated GIFs supported), plus Twitch Bits and subscription revenue calculators. Browser-based, no signup.
 - [Emote Resizer](https://emoteresize.com) Turns one image into every Twitch, Discord, 7TV/BTTV/FFZ and Slack emote, badge and sticker size. Supports PNG and animated GIF, batch input and auto-compression; runs fully client-side with no upload or signup.
+- [Emote Tester](https://levi506.net/emote-tester/) App to allow for previewing Twitch and Discord emotes.
+- [EmoteResizer](https://emoteresizer.net) Free toolkit for streamers: resize emotes, sub/bit badges and stickers to exact Twitch, Discord, Kick, Slack, 7TV and YouTube sizes (animated GIFs supported), plus Twitch Bits and subscription revenue calculators. Browser-based, no signup.
 - [EmoteStudio](https://emotestud.io/) Removes the background from any photograph and turns it into a clean emote for Twitch, Discord, Kick, Slack, and YouTube.
+- [Twitch Emote Resizer](https://tma02.github.io/twitch-emote-resizer/) Automatically resize emotes to required sizes.
+- [Twitch Emotes](https://twitchemotes.com/) It allows you to view the emotes of any channel.
 
 ### Emotes
 
@@ -93,8 +93,8 @@ Emote extensions and third-party services
 
 - [7TV](https://7tv.app/) 3rd party emotes extension that also allows you to add animated emotes.  
 - [BetterTTV](https://betterttv.com/) 3rd party emotes extension that also allows you to add animated emotes.  
-- [FrankerFaceZ](https://www.frankerfacez.com/) Third party emotes extension.
 - [Emotes.net](https://emotes.net/) 3rd party emote marketplace
+- [FrankerFaceZ](https://www.frankerfacez.com/) Third party emotes extension.
 
 ### Misc Tools
 
