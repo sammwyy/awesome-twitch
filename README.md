@@ -109,6 +109,7 @@ Various utilities for your stream that do not fall into a specific category
 - [Clips Kitty](https://colingpt9.github.io/clips-studio/) Free open-source clipper that runs on your own PC — turns Twitch, YouTube and Kick VODs into captioned vertical shorts, keeping whoever is speaking centred in the 9:16 crop. No uploads, no subscription, no watermark.
 - [ClipSpeedAI](https://clipspeed.ai) AI clip extractor — finds highlights in long-form VODs and renders short verticals for TikTok / Shorts / Reels.
 - [Custom Spinner Wheel](https://customspinnerwheel.com) Free customizable spinner wheel for picking random names, splitting viewers into teams and drawing giveaway winners on stream. No account needed.
+- [Gleem](https://gleem.gg) Creator page and Twitch extension where viewers can send paid messages, join memberships, unlock posts and request on-stream actions.
 - [InstantClone](https://s1moscs.dev/instantclone) Free, open source stream delay for OBS that you can change while live, without restarting the stream: add a delay against stream snipers and drop it after the match. Runs on your own PC between OBS and Twitch, YouTube or Kick. Windows and Linux.
 - [Link](https://github.com/shushu-eco/link) Free, open source stream recorder and clip maker that runs on your own computer. A browser extension records the Twitch or Kick stream in your tab with your highlights marked; a Windows program finds the moments and makes captioned 9:16 clips. Nothing is uploaded, no account.
 - [NeonStreamLab Screen Makers](https://neonstreamlab.com/tools) Free browser-based tools to create Starting Soon, BRB, Ending and Offline screens as 1920×1080 PNGs. No account required.
@@ -132,6 +133,7 @@ Various utilities for your stream that do not fall into a specific category
 Software to start streaming
 
 - [Meta G Link Direct](https://github.com/RandyNorthrup/meta-g-link-direct) Uses Ray-Ban Meta (Gen 2) glasses as a live first-person camera source in OBS on Windows, over a Wi-Fi network the glasses host. Free and open source (beta).
+- [OBS IRL Control](https://github.com/gleem-gg/obs-irl-control) Open-source OBS plugin for Linux that switches to your offline scene when an IRL stream drops or lags, and back when it recovers. No obs-websocket needed.
 - [SELive](https://streamelements.com/selive) StreamElements integration for OBS.
 - [StreamFX](https://obsproject.com/forum/resources/streamfx-for-obs%C2%AE-studio.578/) Plugin that adds new sources, filters, effects and transitions to the OBS.
 - [Tuna](https://obsproject.com/forum/resources/tuna.843/) Show information of the current song playing in your stream.
