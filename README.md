@@ -26,6 +26,7 @@ Browser widgets for OBS to add more functionality to your stream.
 - [ChatIS](https://chatis.is2511.com/) jChat fork with 7TV integration.
 - [CodingFreaks Chat Overlay](https://twitch-overlays.coding-freaks.com/en/overlays/chat-overlay) Free display-only chat overlay with native 7TV, BTTV and FFZ emotes and six themes. Runs from a single HTML file, so it needs no bot account and no OAuth token.
 - [Facecam PNGTuber](https://www.facecam.ai/pngtuber-maker) Free PNGTuber maker in the browser that talks when you talk, with a one-link transparent OBS browser source. No sign-up.
+- [Fut Overlay](https://futoverlay.com) Browser-source football (soccer) overlay for OBS with live scoreboards, lineups, stats and match events. Free trial available.
 - [GGCombat Esports Overlay](https://ggcombat.com/en/widgets) Free 800x140 browser source for pro LoL, Dota 2, MLBB and AoV matches: both teams, live score or Bo format, and an Elo-based win-chance bar, reloading every 30 seconds. No account.
 - [PixelyChat](https://pixelychat.com) - Merges Twitch, YouTube, TikTok, and Kick chat, follows, subs, gifts, and likes into one browser-source overlay or dock for OBS/Streamlabs, plus neural TTS, live translation, and mod tools.
 - [Poltergeist](https://poltergeist.cc) Real-time overlay control for Twitch, Kick & YouTube streamers and their mods.
