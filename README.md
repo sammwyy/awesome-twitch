@@ -32,6 +32,7 @@ Browser widgets for OBS to add more functionality to your stream.
 - [OverlayCast](https://overlaycast.com) Browser-source overlays for OBS: chat, alerts, goal bars, timers, polls and chat games, each from one URL that updates when you edit it. Freemium: eight free widgets with a watermark, Pro for the rest.
 - [PixelyChat](https://pixelychat.com) - Merges Twitch, YouTube, TikTok, and Kick chat, follows, subs, gifts, and likes into one browser-source overlay or dock for OBS/Streamlabs, plus neural TTS, live translation, and mod tools.
 - [Poltergeist](https://poltergeist.cc) Real-time overlay control for Twitch, Kick & YouTube streamers and their mods.
+- [send21 stream tips](https://github.com/send21io/send21-stream-tips) Self-hosted, open-source crypto tip page and OBS alert overlay. Viewers tip in USDC/USDT on Solana or BTC over Lightning, paid directly to the streamer's wallet, with an alert once the payment is confirmed.
 - [Show Emote](https://show-emote.sammwy.com) Allow your viewers to display emotes from chat using !showemote.
 - [showmy.chat](https://showmy.chat/) Instant, themed Twitch chat overlays.
 - [SoundAlerts](https://soundalerts.com/) Allow your viewers to play sounds in your stream with bits.
