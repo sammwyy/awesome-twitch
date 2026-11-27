@@ -64,6 +64,7 @@ Chat bot that brings utilities to your viewers or moderators.
 - [Nightbot](https://nightbot.tv/) Bot that allows you to automate your stream's chat with moderation and new features.
 - [StreamElements](https://streamelements.com/) The chat bot with integration with StreamElements. 
 - [Streamlabs](https://streamlabs.com/es-es/cloudbot) The chat bot with integration with Streamlabs. 
+- [Universal Translator](https://www.universal-translator.io/) Bot that automatically translates chat messages into the streamer's language and back.
 
 ### Chat Clients
 
