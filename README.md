@@ -128,6 +128,7 @@ Various utilities for your stream that do not fall into a specific category
 - [StreamPulse](https://streampulse.fr) Free, open-source browser extension for viewers: one dashboard and desktop alerts for Twitch and Kick lives, auto-claimed channel points and Drops, and favorites pinned in the Twitch sidebar. No login and no OAuth token needed.
 - [StreamWorlds](https://streamworlds.io/) A free Twitch extension that lets you create immersive 3D virtual spaces for your community. Boost engagement and fun.
 - [Twitch → Telegram](https://github.com/Marfa/twitch-telegram-bot) Open-source Telegram bot for Twitch alerts (went live, category change, stream end, Drops), schedule tools and AI clips from VODs. Hosted bot or self-host.
+- [Valmera](https://valmera.io/long-video-ai-editing) Browser-based AI editor for uploaded stream recordings: describe the cut, review the preview, and export a landscape episode or captioned clips as MP4.
 - [Video Size Reducer](https://video-size-reducer.com) Compresses a clip or recording to a target file size (e.g. Discord's upload limit) and outputs an H.264 MP4 without watermark. Processed server-side; free up to 1 GiB, paid plans for more.
 - [Voding](https://vod.ing) Browser-based Twitch VoD editor with chat-activity highlight finding, chat overlay rendering and FCPXML export.
 - [Wheel of Item](https://wheelofitem.com) Free spin wheel & gachapon prize machine for streamers — viewers trigger it from chat with !spin, or it auto-spins on Streamlabs/StreamElements/Ko-fi donations.
