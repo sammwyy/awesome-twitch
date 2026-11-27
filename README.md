@@ -79,6 +79,7 @@ Alternative chat clients that bring more utilities or provide additional support
 
 Tools and utilities about emotes.
 
+- [Animated Emote Maker](https://animatedemotemaker.com) Turns a picture, or a character designed in the app, into a matching set of animated Twitch and Discord emotes, sub badges and PNGTuber states. 3 free credits, then paid credit packs.
 - [Emote Tester](https://levi506.net/emote-tester/) App to allow for previewing Twitch and Discord emotes.
 - [Twitch Emotes](https://twitchemotes.com/) It allows you to view the emotes of any channel.
 - [Twitch Emote Resizer](https://tma02.github.io/twitch-emote-resizer/) Automatically resize emotes to required sizes.
