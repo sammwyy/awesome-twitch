@@ -25,6 +25,7 @@ Browser widgets for OBS to add more functionality to your stream.
 - [Amuse](https://6klabs.com/amuse) Show information of the current song playing in your stream.
 - [ChatIS](https://chatis.is2511.com/) jChat fork with 7TV integration.
 - [CodingFreaks Chat Overlay](https://twitch-overlays.coding-freaks.com/en/overlays/chat-overlay) Free display-only chat overlay with native 7TV, BTTV and FFZ emotes and six themes. Runs from a single HTML file, so it needs no bot account and no OAuth token.
+- [CommunityGames](https://www.communitygames.io) Chat games in one OBS browser source: viewers type one word in Twitch, Kick or YouTube chat to join a marble race, Plinko, Bingo or a trivia round, and every result has a code anyone can verify. Paid, $9 a month.
 - [ControllerOverlay](https://controlleroverlay.com) Shows your PS5, PS4 or Xbox controller on stream, lighting up each button, trigger and stick as you press it. One transparent browser source link. Stock pads are free with an account; skins are a one-time $14.99.
 - [Facecam PNGTuber](https://www.facecam.ai/pngtuber-maker) Free PNGTuber maker in the browser that talks when you talk, with a one-link transparent OBS browser source. No sign-up.
 - [Fut Overlay](https://futoverlay.com) Browser-source football (soccer) overlay for OBS with live scoreboards, lineups, stats and match events. Free trial available.
