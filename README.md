@@ -26,6 +26,7 @@ Browser widgets for OBS to add more functionality to your stream.
 - [ChatIS](https://chatis.is2511.com/) jChat fork with 7TV integration.
 - [CodingFreaks Chat Overlay](https://twitch-overlays.coding-freaks.com/en/overlays/chat-overlay) Free display-only chat overlay with native 7TV, BTTV and FFZ emotes and six themes. Runs from a single HTML file, so it needs no bot account and no OAuth token.
 - [ControllerOverlay](https://controlleroverlay.com) Shows your PS5, PS4 or Xbox controller on stream, lighting up each button, trigger and stick as you press it. One transparent browser source link. Stock pads are free with an account; skins are a one-time $14.99.
+- [DankMachine Stream Tools](https://dankmachine.com/tools/) Free meme OBS browser sources: a transparent countdown timer that ends with a meme sound, a Be Right Back / Starting Soon screen that plays random meme sounds, and an overlay that plays every sound viewers press in a live Sound Room. No account, no watermark.
 - [Facecam PNGTuber](https://www.facecam.ai/pngtuber-maker) Free PNGTuber maker in the browser that talks when you talk, with a one-link transparent OBS browser source. No sign-up.
 - [Fut Overlay](https://futoverlay.com) Browser-source football (soccer) overlay for OBS with live scoreboards, lineups, stats and match events. Free trial available.
 - [Kloot](https://kloot.gg) Browser-based control deck for streamers: fire giveaways, live polls, lower thirds and hype effects from one OBS browser source, controlled from your phone.
